@@ -1,0 +1,16 @@
+.item-chat {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    line-height: 1;
+    img {
+        border-radius: 15px;
+        margin-right: 1rem;
+        width: 50px;
+        height: 50px;
+    }
+    .name {
+        font-weight: 600;
+        margin-right: 1rem;
+    }
+}
